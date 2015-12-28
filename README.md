@@ -1,2 +1,4 @@
 # hello-world
-FIrst GitHub repo
+First GitHub repo
+
+Commiting for the first time
